@@ -1,0 +1,7 @@
+{
+	"package-name": "cmsplugin-header-control",
+	"installed-apps": [
+		"cmsplugin_header_control"
+	]
+}
+
